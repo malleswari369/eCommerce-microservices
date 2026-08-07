@@ -1,2 +1,2 @@
-Learning Git - day 2 \n created feature/authentication branch 
-ms /n yes you are !
+feature:payment Module 
+ Developer:ms
